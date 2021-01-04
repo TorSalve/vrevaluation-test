@@ -1,7 +1,7 @@
 title: How to Evaluate Object Selection and Manipulation in VR? Guidelines from 20 Years of Studies
 description: Guidelines for evaluating object selection and manipulations, maintained by the HCI community.
 url: "https://torsalve.github.io/vrevaluation-test/"
-remote_theme: alexander-heimbuch/millidocs
+remote_theme: pmarsceill/just-the-docs
 
 markdown: kramdown
 kramdown:
