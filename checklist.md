@@ -12,6 +12,8 @@ nav_order: 3
 
 [Download as pdf](https://github.com/TorSalve/vrevaluation-test/)
 
+---
+
 ## Table of contents
 {: .no_toc .text-delta }
 
