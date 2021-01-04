@@ -2,6 +2,7 @@
 layout: page
 title: Checklist
 navigation: 3
+nav_order: 3
 ---
 
 # VR object selection and manipulation study checklist
