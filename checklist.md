@@ -7,6 +7,8 @@ nav_order: 3
 
 # VR object selection and manipulation study checklist
 
+[Contribute via Google Docs](https://github.com/TorSalve/vrevaluation-test/)
+
 [Download as pdf](https://github.com/TorSalve/vrevaluation-test/)
 
 ### Method
