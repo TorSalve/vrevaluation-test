@@ -27,8 +27,7 @@ nav_order: 3
 2. Provide supplementary information (e.g., a link or an appendix) to preregistration, if applicable.
 
 ### Participants
-
-{:start="3"}
+{:style="counter-increment: step-counter 3;"}
 3. Report the number of participants and if possible, how this sample size was decided.
 4. Describe the aims of recruitment together with demographics (e.g., level of expertise with virtual reality and inthe domain, if applicable).
 
