@@ -4,21 +4,21 @@ title: Checklist
 navigation: 3
 ---
 
-## VR object selection and manipulation study checklist
+# VR object selection and manipulation study checklist
 
 [Download as pdf](https://github.com/TorSalve/vrevaluation-test/)
 
-#### Method
+### Method
 1. Provide an explicit statement of the goal of the study.
 2. Provide supplementary information (e.g., a link or an appendix) to preregistration, if applicable.
 
-#### Participants
+### Participants
 
 {:start="3"}
 3. Report the number of participants and if possible, how this sample size was decided.
 4. Describe the aims of recruitment together with demographics (e.g., level of expertise with virtual reality and inthe domain, if applicable).
 
-#### Design
+### Design
 
 {:start="5"}
 5. State all independent variables or factors and their levels in an explicit sentence. When there are more than oneindependent variables or factors, report them and their levels in M&times;N&times;P format. Be sure to include all factors.
@@ -26,19 +26,19 @@ navigation: 3
 7. Report the number of repetitions if any, and the number of trials in total for the main independent variable (e.g.,if M is a technique, report the number of trials with each technique in N&times;P&times;repetitions format).
 8. Define the dependent variables in an explicit sentence (e.g., selection or task completion time, errors, accuracy,and user experience or workload, if applicable). Explain how the values of dependent variables are determinedor calculated.
 
-#### Task
+### Task
 
 {:start="9"}
 9. Report the task(s) and possible sub-tasks in detail. Classify the tasks as selection or manipulation, and classifymanipulation as translation, rotation, or scaling.
 10. State if the task is based on previous work, and if so, which parameters were modified, if any.
 
-#### Procedure
+### Procedure
 
 {:start="11"}
 11. Express whether the task is discrete task or serial. If the task is serial, explain the trials through the sequences(e.g., 10 target selections in a 11-target circle after the initial starting selection).
 12. Describe how the participants were trained for the task (if any). Specify the type of the training (e.g., in thetask itself, in getting used to a technique in a setting different from the task). Specify also the duration of thetraining (e.g., a time or number of trials).
 
-#### Targets
+### Targets
 
 {:start="13"}
 13. Report the total number of distinct targets.
@@ -52,7 +52,7 @@ navigation: 3
 21. Connect target distances with size if applicable (e.g., list the target IDs together with sizes and distances).
 22. Specify how the cursor or manipulated object and the target object sizes are used to define errors, if any aremeasured (e.g., the size difference if the cursor needs to fit inside the target for successful performance, or theacceptable threshold of correct positioning). Otherwise, state that accuracy is used as a measure and define howit is calculated.
 
-#### Materials
+### Materials
 
 {:start="23"}
 23. Describe the physical setting with respect to the participants and their movement (e.g., what posture were theyinstructed to maintain, were there any controlled or otherwise limited physical motions such as a use of a chinrest, an instruction to stand on the same spot, or resetting the physical posture in a starting position betweentrials). Ideally provide a visual depiction in addition to a text-based description.
@@ -62,7 +62,7 @@ navigation: 3
 27. Describe the devices used in the study. Detail from virtual reality devices their FoV, refresh rate, and resolutionin addition to their brand, type, and version. From the motion tracking or other input devices, specify theirspatial and temporal accuracy.
 28. Describe the interaction technique(s) used in the study. The typical details include how the user’s movementsare mapped into the virtual setting (e.g., motion gains for cursors and methods for casting rays or pointers) andthe mechanism for triggering selection (and if applicable, task completion).
 
-#### Results and Analysis
+### Results and Analysis
 
 {:start="29"}
 29. Report the effect size of your statistics.
