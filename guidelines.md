@@ -60,3 +60,4 @@ We recommend using a fixed standing or sitting position in thephysical space. Co
 We recommend using a generic virtual environment, but with depthcues from shadows and from the surroundings, such as the ground or the walls. Depth cues are important, but realistic settings are difficult to compare with all possible distractors. Consider if your task is too specialised, if you feel a need to design a complex environment.
 
 ## References
+{: .no_toc }
