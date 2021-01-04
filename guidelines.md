@@ -10,6 +10,8 @@ nav_order: 2
 
 [Contribute via Google Docs](https://github.com/TorSalve/vrevaluation-test/)
 
+---
+
 ## Table of contents
 {: .no_toc .text-delta }
 
