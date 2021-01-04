@@ -4,7 +4,6 @@ title: Guidelines
 navigation: 2
 has_children: true
 nav_order: 2
-parent: true
 ---
 
 # VR object selection and manipulation study guidelines
