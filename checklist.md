@@ -6,10 +6,19 @@ nav_order: 3
 ---
 
 # VR object selection and manipulation study checklist
+{: .no_toc }
 
 [Contribute via Google Docs](https://github.com/TorSalve/vrevaluation-test/)
 
 [Download as pdf](https://github.com/TorSalve/vrevaluation-test/)
+
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
 
 ### Method
 1. Provide an explicit statement of the goal of the study.
