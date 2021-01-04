@@ -1,9 +1,3 @@
----
-layout: page
-title: Introduction
-navigation: 1
----
-
 # How to Evaluate Object Selection and Manipulation in VR? Guidelines from 20 Years of Studies
 
 ## How to contribute
