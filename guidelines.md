@@ -12,6 +12,8 @@ nav_order: 2
 
 ---
 
+Version 1.0.0
+
 ## Table of contents
 {: .no_toc .text-delta }
 
