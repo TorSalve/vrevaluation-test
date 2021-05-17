@@ -9,6 +9,7 @@ nav_order: 3
 {: .no_toc }
 
 [Contribute via Google Docs](https://docs.google.com/document/d/1Ny2LAe80bTIW2hjs6z-L8z8Q1i9ccTv2aGvUMJMoYPo/edit?usp=sharing)
+
 [Download pdf-version](https://github.com/TorSalve/vrevaluation-test/releases/latest)
 
 ---
