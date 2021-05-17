@@ -8,7 +8,10 @@ nav_order: 2
 # VR object selection and manipulation study guidelines
 {: .no_toc }
 
-[Contribute via Google Docs](#)
+
+[Contribute via Google Docs](https://docs.google.com/document/d/1xhJFWsNdzVru21kheWnoRRrgtQAc7fqz9dYHf5kFbdU/edit?usp=sharing)
+
+[Download pdf-version](https://github.com/TorSalve/vrevaluation-test/releases/latest)
 
 ---
 
