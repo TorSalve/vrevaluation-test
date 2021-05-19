@@ -7,7 +7,7 @@ nav_order: 1
 
 # How to Evaluate Object Selection and Manipulation in VR? Guidelines from 20 Years of Studies
 
-This (living) document grew out of our interest to develop guidelines for virtual reality studies using object selection and manipulation. The first version of the recommendation set and the checklist for object selection and manipulation studies in VR was developed upon a review of such studies. The recommendations and the checklist are intended to encourage good study and reporting practices and start work toward shared and reproducible study setups.
+This (living) document grew out of our interest to develop guidelines for virtual reality studies using object selection and manipulation. The first version of the recommendation set and the checklist for object selection and manipulation studies in VR was developed upon a review of such studies (see the reference below). The recommendations and the checklist are intended to encourage good study and reporting practices and start work toward shared and reproducible study setups.
 
 ## How to contribute
 We would love you to give feedback and contribute to these guidelines. Like many things, they are not fixed in stone but rather living things that need to evolve with time. You can contribute both to the guidelines and checklist, but before you do, take a look at our [Code of Conduct][coc].
