@@ -12,7 +12,7 @@ This (living) document grew out of our interest to develop guidelines for virtua
 ## How to contribute
 We would love you to give feedback and contribute to these guidelines. Like many things, they are not fixed in stone but rather living things that need to evolve with time. You can contribute both to the guidelines and checklist, but before you do, take a look at our [Code of Conduct][coc].
 
-Both guideline and checklist have a connected Google Docs document that is open for revision and comments. Find links to those documents on the relevant subpages.
+Both the guidelines and checklist have a connected Google Docs document that is open for revision and comments. Find links to those documents on the relevant subpages.
 
 ## Reference
 You can cite the guideline and checklist with the following ACM reference:
