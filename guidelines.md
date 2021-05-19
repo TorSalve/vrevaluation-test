@@ -9,9 +9,9 @@ nav_order: 2
 {: .no_toc }
 
 
-[Contribute via Google Docs](https://docs.google.com/document/d/1xhJFWsNdzVru21kheWnoRRrgtQAc7fqz9dYHf5kFbdU/edit?usp=sharing)
+[Contribute via Google Docs](https://docs.google.com/document/d/1xhJFWsNdzVru21kheWnoRRrgtQAc7fqz9dYHf5kFbdU/edit?usp=sharing){:target="_blank"}
 
-[Download pdf-version](https://github.com/TorSalve/vrevaluation-test/releases/latest)
+[Download pdf-version](https://github.com/TorSalve/vrevaluation-test/releases/latest){:target="_blank"}
 
 ---
 
